@@ -1,0 +1,43 @@
+.fundoazul{
+    background-color: #e5e5e5 !important;
+}
+
+.ImgHeader{
+    width: 120px;
+    height: 20%;
+}
+
+.fundoaviso{
+    text-align: center;
+    background-color: #fca311ef !important;
+}
+
+.textoheader{
+    color: #f0f0f0 !important;
+}
+
+.margem{
+    margin-top: 10px !important;   
+    margin-right: 25px !important; 
+    margin-bottom: 20px !important; 
+    margin-left: 25px !important; 
+}
+
+.margemtabela{
+    margin-top: 10px !important;   
+    margin-right: 35px !important; 
+    margin-bottom: 20px !important; 
+    margin-left: 35px !important; 
+}
+
+h1{
+    color: #14213d;
+}
+
+h6{
+    color: #14213d;
+}
+
+.textoheader{
+    color: #14213d !important;
+}
