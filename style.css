@@ -12,6 +12,17 @@
     background-color: #fca311ef !important;
 }
 
+.fundoperfil{
+    text-align: center;
+    background-color: #d0d0d0ef !important;
+}
+
+.fundovermelho{
+    text-align: center; 
+    background-color: #e51818ef !important;
+    color: #faf9f9 !important;
+}
+
 .textoheader{
     color: #f0f0f0 !important;
 }
@@ -23,11 +34,23 @@
     margin-left: 25px !important; 
 }
 
+.margemnav{  
+    margin-right: 35px !important; 
+    margin-left: 25px !important; 
+}
+
 .margemtabela{
     margin-top: 10px !important;   
     margin-right: 35px !important; 
     margin-bottom: 20px !important; 
     margin-left: 35px !important; 
+}
+
+.margemtabela{
+    margin-top: 70px !important;   
+    margin-right: 300px !important; 
+    margin-bottom: 70px !important; 
+    margin-left: 300px !important; 
 }
 
 h1{
@@ -41,3 +64,12 @@ h6{
 .textoheader{
     color: #14213d !important;
 }
+
+.centralizado {
+    text-align: center; /* Centraliza horizontalmente */
+    display: flex;
+    align-items: center; /* Centraliza verticalmente */
+    justify-content: center;
+    height: 160px; /* Defina um tamanho para centralizar verticalmente */
+}
+
