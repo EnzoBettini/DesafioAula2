@@ -66,10 +66,10 @@ h6{
 }
 
 .centralizado {
-    text-align: center; /* Centraliza horizontalmente */
+    text-align: center; 
     display: flex;
-    align-items: center; /* Centraliza verticalmente */
+    align-items: center; 
     justify-content: center;
-    height: 160px; /* Defina um tamanho para centralizar verticalmente */
+    height: 160px; 
 }
 
